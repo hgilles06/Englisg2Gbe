@@ -1,2 +1,2 @@
 # Englisg2Gbe
-The first Multilingual Machine Translation model to translate from English to Ewe or Fon.
+The first Multilingual Machine Translation model to translate from English to Ewe or Fon. Codes, training and test data, but also configuration files are all accessible from [Google drive](https://drive.google.com/drive/folders/1OtYU-h1OdyCUbH7X9auuPv9QMseND22e?usp=sharing). The training code is mostly inpired from [here](https://github.com/masakhane-io/masakhane-mt/blob/master/starter_notebook-custom-data.ipynb). Enjoy Multilinguality! 
